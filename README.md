@@ -16,3 +16,6 @@ VMA415 naaras/naaras hyppylanka https://www.triopak.fi/fi/tuote/VMA415
 USBAB0M5 0,5m usb a-b kaapeli https://www.triopak.fi/fi/tuote/USBAB0M5
 
 T41-9-500D-3 9Vdc 500mA pistokevirtalähde https://www.triopak.fi/fi/tuote/T41-9-500D-3
+
+
+Lataa viimeisin versio: https://github.com/Triopak/3-Arduino-termostaatti/archive/master.zip
