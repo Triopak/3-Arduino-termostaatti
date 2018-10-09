@@ -1,6 +1,9 @@
 # 3-Arduino-termostaatti
 Led näyttöinen termostaatti asetettavalla lämpötilalla ja hystereesillä Arduinolla toteutettuna.
 
+Koko projekti luettavissa: 
+https://www.triopak.fi/fi/blogi/rakentelu/arduino-termostaatti
+
 Projektissa käytetyt osat:
 
 DS18B20 lämpötila-anturi https://www.triopak.fi/fi/tuote/DS18B20
